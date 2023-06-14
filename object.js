@@ -12,7 +12,7 @@ let a = {
 document.write(a.second());
 
 var aray = ["Shaheer", "Zia", "Usama"];
-var b = [10, 20, 30, 40];
+var b = [100, 20, 30, 40];
 
 document.write(aray + "<br>");
 
